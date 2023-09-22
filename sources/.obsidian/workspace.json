@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "1226a327780c99b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a63d4286cc3a8460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e890defd00a60b5a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "203d3e2633599daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "31974dabd78116e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c4e33a94f34063f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13dc8d34d6b82eec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4703efdbb9d843fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fbad2b11c26de82",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c7fabfb312c5f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0999d92def01e696",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d7469e40bf63de2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4562448134b64ace",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "357d6c38aa2110be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e890defd00a60b5a",
+  "lastOpenFiles": [
+    "1.1.md",
+    "1.2.md",
+    "114-idey-dlya-tem-bloga.md",
+    "1.2-114-idey-dlya-tem-bloga.md",
+    "1.1-sem-voprosov.md",
+    "1.2-sem-voprosov.md",
+    "sem-voprosov.md",
+    "tiddlywiki.html",
+    "sem-voprosov-tiddly.html",
+    "tiddlywiki-skeleton (copy).html",
+    "sem-voprosov-sobes.md"
+  ]
+}
